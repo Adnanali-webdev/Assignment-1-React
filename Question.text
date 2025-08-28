@@ -1,0 +1,37 @@
+TASK 1
+
+Problem Statement
+
+Q1. Explain the potential SEO challenges and solutions associated with Single Page Applications (SPAs).
+
+
+TASK 2
+
+Problem Statement
+
+Explain the key differences and use cases between React's Client-Side Rendering (CSR) and Server-Side
+Rendering (SSR). Provide examples of scenarios where each approach is advantageous, and discuss the
+challenges associated with using React in both contexts.
+
+
+TASK 3
+
+Problem Statement
+
+Explain the difference between npm and npx using the create-react-app code example.
+
+
+TASK 4
+
+Problem Statement
+
+Create a React component called "Login" without using JSX for its definition. This component should render
+an HTML structure that includes a form with input fields for a username and password. It should also have a
+button labeled "Submit." 
+
+TASK 5
+
+Problem Statement
+
+Create a React component called “Product" using JSX. This component should render an HTML structure that
+includes a product image, price, name, and description. It should also have a button labeled "Buy Now." 

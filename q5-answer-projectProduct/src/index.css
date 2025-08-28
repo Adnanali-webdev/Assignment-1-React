@@ -1,0 +1,32 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing:border-box;
+}
+
+.items{
+  margin:30px 10px;
+  padding:0px 20px;
+}
+.item{
+  display:flex;
+  justify-content:center;
+  align-items:flex-start;
+  flex-direction:column;
+  min-width:300px;
+}
+h5{
+  margin: 20px 0px;
+    font-size: 20px;
+}
+
+.pro-price, .pro-dp{
+  color:rgb(94 91 91);
+}
+.pro-price{
+  margin:20px 0px;
+}
+button{
+  padding:4px 8px;
+  cursor:pointer;
+}
